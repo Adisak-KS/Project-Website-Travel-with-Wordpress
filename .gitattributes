@@ -1,0 +1,2 @@
+*.wpress filter=lfs diff=lfs merge=lfs -text
+localhost-wp_adisak-20220310-085655-etjf0z.wpress filter=lfs diff=lfs merge=lfs -text
