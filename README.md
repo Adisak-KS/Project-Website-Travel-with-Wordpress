@@ -20,7 +20,7 @@ ___
 ___
 
 ### 📥วิธีติดตั้งเว็บไซต์
-**หากใช้ git clone ให้เปลี่ยนชื่อ Folder จาก **Project-Website-Travel-with-Wordpress** เป็น **wp-adisak** ก่อน **
+
 1. ตั้งตั้ง Wordpress และตัั้งค่า MySql ดังนี้ [คลิก](https://github.com/Adisak-KS/Project-Website-Travel-with-Wordpress/blob/main/preview/How_to_install/01_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%20WordPress.pdf)
 2. ติดตั้ง Plugin ดังนี้
    
@@ -32,7 +32,7 @@ ___
 4. เปลี่ยนชื่อเว็บไซต์จาก wp-adisak เป็น **"เที่ยวเหนือ"** โดยไปที่เมนู Settings > General > Site Title
 5. เมื่อติดตั้ง All-in-One WP Migration ให้ Import ไฟล์จาก [คลิก](https://github.com/Adisak-KS/Project-Website-Travel-with-Wordpress/tree/main/preview/Backup)
 
-
+หากใช้ git clone ให้เปลี่ยนชื่อ Folder จาก **Project-Website-Travel-with-Wordpress** เป็น **wp-adisak** ก่อน
 ___
 
 ### 🕯️วิธีเข้าใช้งาน
