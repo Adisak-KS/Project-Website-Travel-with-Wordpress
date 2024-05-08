@@ -30,7 +30,7 @@ ___
    2.2 Fonts Plugin | Google Fonts Typography
 
    2.3 All-in-One WP Migration ใช้ตัวนี้ [คลิก](https://github.com/Adisak-KS/Project-Website-Travel-with-Wordpress/tree/main/preview/Plugin)
-4. เปลี่ยนชื่อเว็บไซต์จาก wp-adisak เป็น เที่ยวเหนือ โดยไปที่เมนู Settings > General > Site Title
+4. เปลี่ยนชื่อเว็บไซต์จาก wp-adisak เป็น **"เที่ยวเหนือ"** โดยไปที่เมนู Settings > General > Site Title
 5. เมื่อติดตั้ง All-in-One WP Migration ให้ Import ไฟล์จาก [คลิก](https://github.com/Adisak-KS/Project-Website-Travel-with-Wordpress/tree/main/preview/Backup)
 
 
