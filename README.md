@@ -43,3 +43,8 @@ ___
     Username : wp-adisak
     Password : wp-adisak
 ___
+
+### 💻 ตัวอย่างเว็บไซต์
+
+![index](https://github.com/Adisak-KS/Project-Website-Travel-with-Wordpress/blob/main/preview/Demo/01_%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B9%81%E0%B8%A3%E0%B8%81.png)
+
